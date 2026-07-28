@@ -1,9 +1,9 @@
 const cacheName = "IgorDinarelli-VibeDungeon-1.0";
 const contentToCache = [
     "Build/VibeCodeGame.loader.js",
-    "Build/VibeCodeGame.framework.js.gz",
-    "Build/VibeCodeGame.data.gz",
-    "Build/VibeCodeGame.wasm.gz",
+    "Build/VibeCodeGame.framework.js",
+    "Build/VibeCodeGame.data",
+    "Build/VibeCodeGame.wasm",
     "TemplateData/style.css"
 
 ];
